@@ -1,0 +1,269 @@
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\DemoCrud.dll.config
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\DemoCrud.dll
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\DemoCrud.pdb
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\roslyn\csc.exe
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\roslyn\csc.exe.config
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\roslyn\csc.rsp
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\roslyn\csi.exe
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\roslyn\csi.exe.config
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\roslyn\csi.rsp
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\roslyn\System.AppContext.dll
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\roslyn\System.Console.dll
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\roslyn\System.IO.Compression.dll
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\roslyn\System.IO.Pipes.dll
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\roslyn\System.Security.Claims.dll
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\roslyn\System.ValueTuple.dll
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\roslyn\System.Xml.XPath.dll
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\roslyn\vbc.exe
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\roslyn\vbc.exe.config
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\roslyn\vbc.rsp
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\roslyn\VBCSCompiler.exe
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\Antlr3.Runtime.dll
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\Newtonsoft.Json.dll
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\System.Web.Helpers.dll
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\System.Web.Mvc.dll
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\System.Web.Optimization.dll
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\System.Web.Razor.dll
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\System.Web.WebPages.Deployment.dll
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\System.Web.WebPages.dll
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\System.Web.WebPages.Razor.dll
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\WebGrease.dll
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\System.Web.Helpers.xml
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\System.Web.Mvc.xml
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\System.Web.Optimization.xml
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\System.Web.Razor.xml
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\System.Web.WebPages.xml
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\System.Web.WebPages.Deployment.xml
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\System.Web.WebPages.Razor.xml
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\Newtonsoft.Json.xml
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\Antlr3.Runtime.pdb
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\obj\Debug\DemoCrud.csprojAssemblyReference.cache
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\obj\Debug\DemoCrud.csproj.CoreCompileInputs.cache
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\obj\Debug\DemoCrud.csproj.CopyComplete
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\obj\Debug\DemoCrud.dll
+C:\Users\elton.santos\Documents\Aplicação ASP.NET MVC 5\DemoCrud\DemoCrud\obj\Debug\DemoCrud.pdb
+C:\github\DemoCrud\DemoCrud\obj\Debug\DemoCrud.csprojAssemblyReference.cache
+C:\github\DemoCrud\DemoCrud\obj\Debug\DemoCrud.csproj.CoreCompileInputs.cache
+C:\github\DemoCrud\DemoCrud\obj\Debug\DemoCrud.dll
+C:\github\DemoCrud\DemoCrud\obj\Debug\DemoCrud.pdb
+C:\github\DemoCrud\DemoCrud\bin\DemoCrud.dll.config
+C:\github\DemoCrud\DemoCrud\bin\DemoCrud.dll
+C:\github\DemoCrud\DemoCrud\bin\DemoCrud.pdb
+C:\github\DemoCrud\DemoCrud\bin\roslyn\csc.exe
+C:\github\DemoCrud\DemoCrud\bin\roslyn\csc.exe.config
+C:\github\DemoCrud\DemoCrud\bin\roslyn\csc.rsp
+C:\github\DemoCrud\DemoCrud\bin\roslyn\csi.exe
+C:\github\DemoCrud\DemoCrud\bin\roslyn\csi.exe.config
+C:\github\DemoCrud\DemoCrud\bin\roslyn\csi.rsp
+C:\github\DemoCrud\DemoCrud\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\github\DemoCrud\DemoCrud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\github\DemoCrud\DemoCrud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\github\DemoCrud\DemoCrud\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\github\DemoCrud\DemoCrud\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\github\DemoCrud\DemoCrud\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\github\DemoCrud\DemoCrud\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\github\DemoCrud\DemoCrud\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\github\DemoCrud\DemoCrud\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\github\DemoCrud\DemoCrud\bin\roslyn\Microsoft.Managed.Core.targets
+C:\github\DemoCrud\DemoCrud\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\github\DemoCrud\DemoCrud\bin\roslyn\System.AppContext.dll
+C:\github\DemoCrud\DemoCrud\bin\roslyn\System.Collections.Immutable.dll
+C:\github\DemoCrud\DemoCrud\bin\roslyn\System.Console.dll
+C:\github\DemoCrud\DemoCrud\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\github\DemoCrud\DemoCrud\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\github\DemoCrud\DemoCrud\bin\roslyn\System.IO.Compression.dll
+C:\github\DemoCrud\DemoCrud\bin\roslyn\System.IO.FileSystem.dll
+C:\github\DemoCrud\DemoCrud\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\github\DemoCrud\DemoCrud\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\github\DemoCrud\DemoCrud\bin\roslyn\System.IO.Pipes.dll
+C:\github\DemoCrud\DemoCrud\bin\roslyn\System.Reflection.Metadata.dll
+C:\github\DemoCrud\DemoCrud\bin\roslyn\System.Security.AccessControl.dll
+C:\github\DemoCrud\DemoCrud\bin\roslyn\System.Security.Claims.dll
+C:\github\DemoCrud\DemoCrud\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\github\DemoCrud\DemoCrud\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\github\DemoCrud\DemoCrud\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\github\DemoCrud\DemoCrud\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\github\DemoCrud\DemoCrud\bin\roslyn\System.Security.Principal.Windows.dll
+C:\github\DemoCrud\DemoCrud\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\github\DemoCrud\DemoCrud\bin\roslyn\System.ValueTuple.dll
+C:\github\DemoCrud\DemoCrud\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\github\DemoCrud\DemoCrud\bin\roslyn\System.Xml.XmlDocument.dll
+C:\github\DemoCrud\DemoCrud\bin\roslyn\System.Xml.XPath.dll
+C:\github\DemoCrud\DemoCrud\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\github\DemoCrud\DemoCrud\bin\roslyn\vbc.exe
+C:\github\DemoCrud\DemoCrud\bin\roslyn\vbc.exe.config
+C:\github\DemoCrud\DemoCrud\bin\roslyn\vbc.rsp
+C:\github\DemoCrud\DemoCrud\bin\roslyn\VBCSCompiler.exe
+C:\github\DemoCrud\DemoCrud\bin\roslyn\VBCSCompiler.exe.config
+C:\github\DemoCrud\DemoCrud\bin\Antlr3.Runtime.dll
+C:\github\DemoCrud\DemoCrud\bin\EntityFramework.dll
+C:\github\DemoCrud\DemoCrud\bin\EntityFramework.SqlServer.dll
+C:\github\DemoCrud\DemoCrud\bin\Microsoft.AspNet.Identity.Core.dll
+C:\github\DemoCrud\DemoCrud\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\github\DemoCrud\DemoCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\github\DemoCrud\DemoCrud\bin\Microsoft.Web.Infrastructure.dll
+C:\github\DemoCrud\DemoCrud\bin\Newtonsoft.Json.dll
+C:\github\DemoCrud\DemoCrud\bin\System.Web.Helpers.dll
+C:\github\DemoCrud\DemoCrud\bin\System.Web.Mvc.dll
+C:\github\DemoCrud\DemoCrud\bin\System.Web.Optimization.dll
+C:\github\DemoCrud\DemoCrud\bin\System.Web.Razor.dll
+C:\github\DemoCrud\DemoCrud\bin\System.Web.WebPages.Deployment.dll
+C:\github\DemoCrud\DemoCrud\bin\System.Web.WebPages.dll
+C:\github\DemoCrud\DemoCrud\bin\System.Web.WebPages.Razor.dll
+C:\github\DemoCrud\DemoCrud\bin\WebGrease.dll
+C:\github\DemoCrud\DemoCrud\bin\EntityFramework.xml
+C:\github\DemoCrud\DemoCrud\bin\EntityFramework.SqlServer.xml
+C:\github\DemoCrud\DemoCrud\bin\Microsoft.AspNet.Identity.Core.xml
+C:\github\DemoCrud\DemoCrud\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\github\DemoCrud\DemoCrud\bin\System.Web.Helpers.xml
+C:\github\DemoCrud\DemoCrud\bin\System.Web.Mvc.xml
+C:\github\DemoCrud\DemoCrud\bin\System.Web.Optimization.xml
+C:\github\DemoCrud\DemoCrud\bin\System.Web.Razor.xml
+C:\github\DemoCrud\DemoCrud\bin\System.Web.WebPages.xml
+C:\github\DemoCrud\DemoCrud\bin\System.Web.WebPages.Deployment.xml
+C:\github\DemoCrud\DemoCrud\bin\System.Web.WebPages.Razor.xml
+C:\github\DemoCrud\DemoCrud\bin\Newtonsoft.Json.xml
+C:\github\DemoCrud\DemoCrud\bin\Antlr3.Runtime.pdb
+C:\github\DemoCrud\DemoCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\github\DemoCrud\DemoCrud\bin\pt-br\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\github\DemoCrud\DemoCrud\bin\pt-br\System.Web.Helpers.resources.dll
+C:\github\DemoCrud\DemoCrud\bin\pt-br\System.Web.Mvc.resources.dll
+C:\github\DemoCrud\DemoCrud\bin\pt-br\System.Web.Optimization.resources.dll
+C:\github\DemoCrud\DemoCrud\bin\pt-br\System.Web.Razor.resources.dll
+C:\github\DemoCrud\DemoCrud\bin\pt-br\System.Web.WebPages.resources.dll
+C:\github\DemoCrud\DemoCrud\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\github\DemoCrud\DemoCrud\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\github\DemoCrud\DemoCrud\obj\Debug\DemoCrud.csproj.CopyComplete
+C:\github\DemoCrud\DemoCrud\bin\System.Linq.Dynamic.dll
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\DemoCrud.dll.config
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\DemoCrud.dll
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\DemoCrud.pdb
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\roslyn\csc.exe
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\roslyn\csc.exe.config
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\roslyn\csc.rsp
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\roslyn\csi.exe
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\roslyn\csi.exe.config
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\roslyn\csi.rsp
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\roslyn\Microsoft.Managed.Core.targets
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\roslyn\System.AppContext.dll
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\roslyn\System.Collections.Immutable.dll
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\roslyn\System.Console.dll
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\roslyn\System.IO.Compression.dll
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\roslyn\System.IO.FileSystem.dll
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\roslyn\System.IO.Pipes.dll
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\roslyn\System.Reflection.Metadata.dll
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\roslyn\System.Security.AccessControl.dll
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\roslyn\System.Security.Claims.dll
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\roslyn\System.Security.Principal.Windows.dll
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\roslyn\System.ValueTuple.dll
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\roslyn\System.Xml.XmlDocument.dll
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\roslyn\System.Xml.XPath.dll
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\roslyn\vbc.exe
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\roslyn\vbc.exe.config
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\roslyn\vbc.rsp
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\roslyn\VBCSCompiler.exe
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\roslyn\VBCSCompiler.exe.config
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\Antlr3.Runtime.dll
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\EntityFramework.dll
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\EntityFramework.SqlServer.dll
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\Microsoft.AspNet.Identity.Core.dll
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\Microsoft.Web.Infrastructure.dll
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\Newtonsoft.Json.dll
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\System.Linq.Dynamic.dll
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\System.Web.Helpers.dll
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\System.Web.Mvc.dll
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\System.Web.Optimization.dll
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\System.Web.Razor.dll
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\System.Web.WebPages.Deployment.dll
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\System.Web.WebPages.dll
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\System.Web.WebPages.Razor.dll
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\WebGrease.dll
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\EntityFramework.xml
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\EntityFramework.SqlServer.xml
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\Microsoft.AspNet.Identity.Core.xml
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\System.Web.Helpers.xml
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\System.Web.Mvc.xml
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\System.Web.Optimization.xml
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\System.Web.Razor.xml
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\System.Web.WebPages.xml
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\System.Web.WebPages.Deployment.xml
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\System.Web.WebPages.Razor.xml
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\Newtonsoft.Json.xml
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\Antlr3.Runtime.pdb
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\pt-br\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\pt-br\System.Web.Helpers.resources.dll
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\pt-br\System.Web.Mvc.resources.dll
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\pt-br\System.Web.Optimization.resources.dll
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\pt-br\System.Web.Razor.resources.dll
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\pt-br\System.Web.WebPages.resources.dll
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\github\DemoCRUD-ASP.NET\DemoCrud\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\github\DemoCRUD-ASP.NET\DemoCrud\obj\Debug\DemoCrud.csprojAssemblyReference.cache
+C:\github\DemoCRUD-ASP.NET\DemoCrud\obj\Debug\DemoCrud.csproj.CoreCompileInputs.cache
+C:\github\DemoCRUD-ASP.NET\DemoCrud\obj\Debug\DemoCrud.csproj.CopyComplete
+C:\github\DemoCRUD-ASP.NET\DemoCrud\obj\Debug\DemoCrud.dll
+C:\github\DemoCRUD-ASP.NET\DemoCrud\obj\Debug\DemoCrud.pdb

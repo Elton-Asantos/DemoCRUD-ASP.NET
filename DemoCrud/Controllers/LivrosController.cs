@@ -104,19 +104,24 @@ namespace DemoCrud.Models
         // POST: Criar um novo livro (processa os dados do formulário)
         [HttpPost]
         [ValidateAntiForgeryToken] // Proteção contra ataques CSRF
-        public ActionResult Create([Bind(Include = "Id,Titulo,AnoEdicao,Valor,Autor,GeneroId")] Livro livro)
+        public JsonResult Create([Bind(Include = "Id,Titulo,AnoEdicao,Valor,Autor,GeneroId")] Livro livro)
         {
             if (ModelState.IsValid)
             {
                 // Adiciona o livro ao banco de dados e salva as alterações
                 db.Livros.Add(livro);
                 db.SaveChanges();
-                return RedirectToAction("Index");
+
+                return Json(new { resultado = true, mensagem = "Livro cadastrado com sucesso" });
+
+            }
+            else
+            {
+                IEnumerable<ModelError> erros = ModelState.Values.SelectMany(item => item.Errors);
+
+                return Json(new { resultado = false, mensagem = erros });
             }
 
-            // Caso ocorra um erro, recarrega a lista de gêneros e retorna à view
-            ViewBag.GeneroId = new SelectList(db.Generos, "Id", "Nome", livro.GeneroId);
-            return View(livro);
         }
 
         // GET: Editar um livro existente

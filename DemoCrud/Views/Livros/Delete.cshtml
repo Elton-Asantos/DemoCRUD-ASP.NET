@@ -53,12 +53,15 @@
 
     </dl>
 
-    @using (Html.BeginForm()) {
+    @using (Html.BeginForm("Delete", "Livros", FormMethod.Post, new { id = "formCrud" }))
+    {
         @Html.AntiForgeryToken()
 
         <div class="form-actions no-color">
-            <input type="submit" value="Delete" class="btn btn-default" /> |
+            <input type="button" value="Delete" class="btn btn-default" /> |
             @Html.ActionLink("Back to List", "Index")
         </div>
     }
 </div>
+<script src="~/Scripts/Projeto/enviarFormulario.js"></script>
+

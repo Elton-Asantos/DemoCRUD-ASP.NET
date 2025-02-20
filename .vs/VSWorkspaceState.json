@@ -1,6 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\DemoCrud",
+    "\\DemoCrud\\Controllers",
+    "\\DemoCrud\\Infra",
+    "\\DemoCrud\\ViewModels",
+    "\\DemoCrud\\Views",
+    "\\DemoCrud\\Views\\Livros"
   ],
   "SelectedNode": "\\DemoCrud.sln",
   "PreviewInSolutionExplorer": false

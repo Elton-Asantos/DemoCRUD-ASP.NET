@@ -1,56 +1,58 @@
-﻿@model IEnumerable<DemoCrud.Models.Livro>
+﻿@model IEnumerable<DemoCrud.Models.Livro> < !--Define o modelo esperado pela view: uma coleção de objetos do tipo Livro -->
 @{
-    ViewBag.Title = "Index"; // Define o título da página
+    ViewBag.Title = "Index"; // Define o título da página, que pode ser usado no layout principal
 }
-<h2>Index</h2>
-
+<h2>Index</h2> <!-- Cabeçalho da página -->
+<!-- Botão para adicionar um novo livro -->
 <p>
     <a href="#" class="btn btn-success" data-action="Create">
-        <span class="glyphicon glyphicon-plus" aria-hidden="true"></span>
-        Novo Livro
+        <!-- data-action poderá ser usado para capturar o evento via JS -->
+        <span class="glyphicon glyphicon-plus" aria-hidden="true"></span> <!-- Ícone de adição -->
+        Novo Livro <!-- Texto exibido no botão -->
     </a>
 </p>
-
+<!-- Tabela que exibirá os livros cadastrados -->
 <table id="gridDados">
+    <!-- ID utilizado para manipulação via JavaScript -->
     <thead>
         <tr>
-            <th data-column-id="Titulo" data-order="asc">Título</th>
+            <!-- Definição das colunas com data-column-id para integração com o plugin bootgrid -->
+            <th data-column-id="Titulo" data-order="asc">Título</th> <!-- Coluna ordenada inicialmente de forma ascendente -->
             <th data-column-id="Autor">Autor</th>
             <th data-column-id="AnoEdicao">Ano da Edição</th>
             <th data-column-id="Valor">Valor</th>
-            <th data-formatter="acoes"></th>
-
+            <th data-formatter="acoes"></th> <!-- Coluna reservada para botões de ação (editar, excluir) -->
         </tr>
     </thead>
 </table>
-<!-- Button trigger modal -->
+<!-- Botão para abrir um modal (janela de sobreposição) -->
 <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">
-    Launch demo modal
+    Launch demo modal <!-- Texto do botão -->
 </button>
-
-<!-- Modal -->
+<!-- Estrutura do modal que será exibido para ações como criar ou editar livros -->
 <div class="modal fade" id="minhaModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
     <div class="modal-dialog" role="document">
         <div class="modal-content">
             <div class="modal-body">
-                <div id="conteudoModal"></div>
-                ...
+                <div id="conteudoModal"></div> <!-- Local onde o conteúdo dinâmico será carregado -->
+                ... <!-- Espaço reservado para conteúdo adicional -->
             </div>
         </div>
     </div>
 </div>
-
+<!-- Seção de scripts específicos desta página -->
 @section scripts {
+    <!-- Inclusão do script responsável pelo funcionamento do grid -->
     <script src="~/Scripts/jquery.bootgrid.js"></script>
+    <!-- Script personalizado para controlar o comportamento do grid -->
     <script src="~/Scripts/Projeto/controlarGrid.js"></script>
     <script type="text/javascript">
+        var controller = "Livros"; // Define o nome do controlador que será usado para requisições
 
-        var controller = "Livros";
+        var urlListar = "@Url.Action("Listar")";  // Cria a URL para a ação Listar do controlador, utilizada para carregar os dados na tabela
 
-        var urlListar = "@Url.Action("Listar")"; 
-
-    // Quando o documento estiver completamente carregado, chama a função configurarControles
-    $(document).ready(configurarControles);
-
+        // Quando o documento HTML estiver completamente carregado, a função configurarControles será chamada
+        $(document).ready(configurarControles);
     </script>
 }
+

@@ -151,6 +151,8 @@
     <Compile Include="Models\Genero.cs" />
     <Compile Include="Models\Livro.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ViewModels\DadosFiltrados.cs" />
+    <Compile Include="ViewModels\ParametrosPaginacao.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\bootstrap-theme.css" />

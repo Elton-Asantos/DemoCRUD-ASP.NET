@@ -1,4 +1,5 @@
 ﻿using DemoCrud.AcessoDados;
+using DemoCrud.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Data;
@@ -19,40 +20,41 @@ namespace DemoCrud.Models
             return View();
         }
 
-        public JsonResult Listar(string searchPhrase, int current = 1, int rowCount = 5)
+        public JsonResult Listar(ParametrosPaginacao parametrosPaginacao)
         {
-            // Correção 1: Verificação da chave de ordenação
-            string chave = Request.Form.AllKeys.FirstOrDefault(k => k.StartsWith("sort")) ?? "Titulo";
-            string ordenacao = Request[chave] ?? "asc";
-            string campo = chave.Replace("sort[", String.Empty).Replace("]", String.Empty);
+            DadosFiltrados dadosFiltrados = FiltrarEPaginar(parametrosPaginacao);
 
+            return Json(dadosFiltrados, JsonRequestBehavior.AllowGet);
+        }
+
+        private DadosFiltrados FiltrarEPaginar(ParametrosPaginacao parametrosPaginacao)
+        {
             var livros = db.Livros.Include(l => l.Genero);
             int total = livros.Count();
 
-            if (!String.IsNullOrWhiteSpace(searchPhrase))
+            if (!String.IsNullOrWhiteSpace(parametrosPaginacao.SearchPhrase))
             {
                 int ano = 0;
-                int.TryParse(searchPhrase, out ano);
+                int.TryParse(parametrosPaginacao.SearchPhrase, out ano);
 
                 decimal valor = 0.0m;
-                decimal.TryParse(searchPhrase, out valor);
+                decimal.TryParse(parametrosPaginacao.SearchPhrase, out valor);
 
-                livros = livros.Where("Titulo.Contains(@0) OR Autor.Contains(@0) OR AnoEdicao == @1 OR Valor = @2", searchPhrase, ano, valor);
+                livros = livros.Where("Titulo.Contains(@0) OR Autor.Contains(@0) OR AnoEdicao == @1 OR Valor = @2", parametrosPaginacao.SearchPhrase, ano, valor);
             }
 
-            string campoOrdenacao = String.Format("{0} {1}", campo, ordenacao);
 
-            var livrosPaginados = livros.OrderBy(campoOrdenacao)
-                .Skip((current - 1) * rowCount)
-                .Take(rowCount);
 
-            return Json(new
+            var livrosPaginados = livros.Include(l => l.Genero).OrderBy(parametrosPaginacao.CampoOrdenado).Skip((parametrosPaginacao.Current - 1) * parametrosPaginacao.RowCount).Take(parametrosPaginacao.RowCount);
+
+            DadosFiltrados dadosFiltrados = new DadosFiltrados(parametrosPaginacao)
             {
                 rows = livrosPaginados.ToList(),
-                current = current,
-                rowCount = rowCount,
+                current = parametrosPaginacao.Current,
+                rowCount = parametrosPaginacao.RowCount,
                 total = total
-            }, JsonRequestBehavior.AllowGet);
+            };
+            return dadosFiltrados;
         }
 
         public ActionResult Details(int? id)

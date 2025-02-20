@@ -1,4 +1,6 @@
 ﻿using DemoCrud.AcessoDados;
+using DemoCrud.Infra;
+using DemoCrud.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Data.Entity;
@@ -18,6 +20,7 @@ namespace DemoCrud
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
+            ModelBinders.Binders.Add(typeof(ParametrosPaginacao), new ParametrosPaginacaoModelBinder());
 
             Database.SetInitializer<LivrosContexto>(new LivrosInit());
         }

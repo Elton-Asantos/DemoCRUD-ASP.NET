@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DemoCrud.ViewModels;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -11,6 +12,11 @@ namespace DemoCrud.Infra
         public object BindModel(ControllerContext controllerContext, ModelBindingContext bindingContext)
         {
             HttpRequestBase request = controllerContext.HttpContext.Request;
-        }
+
+            ParametrosPaginacao parametrosPaginacao = new ParametrosPaginacao(request.Form);
+
+            return parametrosPaginacao;
+
+            }
     }
 }
